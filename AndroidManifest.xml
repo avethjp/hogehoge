@@ -26,6 +26,10 @@
             android:name="com.example.hogehoge.HogeActivity"
             android:label="@string/title_activity_hoge" >
         </activity>
+        <activity
+            android:name="com.example.hogehoge.HogeHogeActivity"
+            android:label="@string/title_activity_hoge_hoge" >
+        </activity>
     </application>
 
 </manifest>
